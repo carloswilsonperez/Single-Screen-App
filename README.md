@@ -23,5 +23,5 @@ Your design must include:
  
  The minimum SDK version for this App is 22 (Android 5.1)
 
-![Screenshot](screenshots/app.png "The IceSoup App")
+![Screenshot](screenshots/sc.png "The IceSoup App")
 
